@@ -41,4 +41,12 @@ The scripts in `code/old/` additionally depend on the CMS-internal `mtd_daq` pac
 
 ## License
 
-Code: MIT (see `LICENSE`). Thesis and slides: all rights reserved by the author.
+- Code (`code/`): MIT, see `LICENSE`.
+- Thesis and slides (`thesis/`, `slides/`): [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/),
+  see `LICENSE-CC-BY-4.0.txt`. Third-party figures and logos keep their original terms.
+
+## How to cite
+
+Giacomo Moretti, *Exploiting the Intrinsic Radioactivity of LYSO Crystals for the
+Measurement of the SiPM Breakdown Voltage for the BTL Detector*, Bachelor thesis,
+University of Milano-Bicocca, 2025. https://github.com/gmoretti03/BTL-LYSO-vbr

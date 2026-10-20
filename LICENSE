@@ -20,5 +20,7 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
-This license covers the source code only. The thesis and slides are
-copyright of the author, all rights reserved, unless stated otherwise.
+This license covers the source code only (the code/ directory). The thesis and
+slides (thesis/, slides/) are licensed under CC BY 4.0, see LICENSE-CC-BY-4.0.txt.
+Third-party material reproduced in them (figures, logos) remains under its
+original terms.
