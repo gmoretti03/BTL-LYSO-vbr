@@ -15,9 +15,9 @@ VBR *in situ* from the natural radioactivity of the crystals (176Lu): the LYSO
 photopeak is fitted as a function of the applied voltage (OV scan) and the resulting
 VBR is compared with a dedicated IV scan on the same tray.
 
-**Main result:** the OV-scan VBR is systematically ~0.47 V higher than the IV-scan
-one, uniformly across 11 of 12 detector modules, while nominal Hamamatsu values agree
-with the IV scan to ~0.03 V. The origin of the offset is not resolved.
+**Main result:** the two methods are strongly correlated (mean relative difference
+1.3%), with a systematic offset of about 0.49 V between the OV-scan and IV-scan
+breakdown voltages.
 
 ## Contents
 
